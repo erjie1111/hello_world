@@ -1,2 +1,4 @@
 # hello_world
-1st
+
+There are so many interesting things in the soooooo big universe!
+Go and explore all!
